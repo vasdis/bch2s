@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vasdis/bch2s/static/css/main.e6c13ad2.css",
+    "main.js": "/vasdis/bch2s/static/js/main.ff75631c.js",
+    "static/js/453.5f8e5bac.chunk.js": "/vasdis/bch2s/static/js/453.5f8e5bac.chunk.js",
+    "index.html": "/vasdis/bch2s/index.html",
+    "main.e6c13ad2.css.map": "/vasdis/bch2s/static/css/main.e6c13ad2.css.map",
+    "main.ff75631c.js.map": "/vasdis/bch2s/static/js/main.ff75631c.js.map",
+    "453.5f8e5bac.chunk.js.map": "/vasdis/bch2s/static/js/453.5f8e5bac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ff75631c.js"
+  ]
+}
